@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 51.2041 51.2041" width="100%">
+<g id="Avatar">
+<rect fill="var(--fill-0, white)" height="51.2041" rx="7.87755" width="51.2041"/>
+<rect height="50.2194" rx="7.3852" stroke="var(--stroke-0, #969695)" stroke-opacity="0.24" stroke-width="0.984694" width="50.2194" x="0.492347" y="0.492347"/>
+<g clip-path="url(#clip0_0_4564)" id="Logo">
+<path d="M23.3426 10.1438L43.6378 30.2601V41.0595H34.1667V34.1423L19.426 19.5314H16.3639V41.0595H6.89285V10.1438H23.3426ZM34.1667 20.8725V10.1438H43.6378V20.8725H34.1667Z" fill="var(--fill-0, #1B1B1D)" id="Vector"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_4564">
+<rect fill="white" height="31.5102" transform="translate(6.89285 9.84694)" width="37.4184"/>
+</clipPath>
+</defs>
+</svg>

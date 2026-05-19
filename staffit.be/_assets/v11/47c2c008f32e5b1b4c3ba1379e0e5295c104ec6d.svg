@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 36 36" width="100%">
+<g id="social">
+<rect height="35" rx="17.5" stroke="var(--stroke-0, #0D062D)" stroke-opacity="0.16" width="35" x="0.5" y="0.5"/>
+<g id="icon">
+<path clip-rule="evenodd" d="M19.7168 10C17.0461 10 15.3023 11.6557 15.3023 14.6527V17.2878H12.3334V20.745H15.3023V28H18.9548V20.745H21.678L22.1963 17.2878H18.9548V15.0428C18.9548 14.0972 19.4078 13.1753 20.8597 13.1753H22.3334V10.2335C22.3254 10.2321 20.992 10 19.7168 10Z" fill="var(--fill-0, black)" fill-rule="evenodd" id="Union"/>
+</g>
+</g>
+</svg>
